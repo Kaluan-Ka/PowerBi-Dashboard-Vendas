@@ -7,7 +7,7 @@ Esse projeto faz parte do meu portfólio e simula exatamente o tipo de problema 
 
 O painel foi construído para ir além de “o que aconteceu” e apontar onde agir.
 
-
+![Geral](../docs/geral.png)
 
 
 
