@@ -1,7 +1,7 @@
 ## Dashboard de análise de performance de vendas usando dados fictícios no Power BI. 
 
 Você pode acessar esse relatório por este link: 
-https://app.powerbi.com/view?r=eyJrIjoiNzMzM2QxOTgtODFjNS00ODVmLWFiNmYtYTFkNjFkNDIzMjFiIiwidCI6IjA4NzRhNWFjLWE5YTItNDBiNi05NTU5LTg3NGVjOTYzMTI4YSIsImMiOjR9
+ ![PowerBi](https://app.powerbi.com/view?r=eyJrIjoiNzMzM2QxOTgtODFjNS00ODVmLWFiNmYtYTFkNjFkNDIzMjFiIiwidCI6IjA4NzRhNWFjLWE5YTItNDBiNi05NTU5LTg3NGVjOTYzMTI4YSIsImMiOjR9)
 
 Esse projeto faz parte do meu portfólio e simula exatamente o tipo de problema que dados bem estruturados ajudam a resolver no mundo real.
 
